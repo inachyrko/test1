@@ -1,6 +1,4 @@
-1. 123
-2. 456
-3. here I added new line. what are you going to do?
-4. Add line
-5. welcome Ina!
-6. kjkdl
+a. 123
+b. 456
+c. here I added new line. what are you going to do?
+d. Add line
